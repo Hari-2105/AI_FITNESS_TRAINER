@@ -76,7 +76,7 @@ An AI-powered full-body workout assistant that leverages **Computer Vision**, **
 ``` bash
 git clone https://github.com/Hari-2105/AI_FITNESS_TRAINER.git
 cd AI_FITNESS_TRAINER
-pip install -r requirements.txt
+pip install -r requirements.txt ```
 
 
 

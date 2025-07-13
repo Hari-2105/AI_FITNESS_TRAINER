@@ -8,7 +8,7 @@ An AI-powered full-body workout assistant that leverages **Computer Vision**, **
 
 | Real-time Exercise Tracking | AI Fitness Chatbot (FitBot) | BMI Calculator |
 |-----------------------------|-----------------------------|----------------|
-| ![Exercise](Screenshots/exercise_tracking.png) | ![Chatbot](Screenshots/fitbot_ui.png.png) | ![BMI Calculator](AI_FITNESS_PROJECT/Screenshots/bmi_calculator.png)
+| ![Exercise](AI_FITNESS_PROJECT/Screenshots/exercise_tracking.png) | ![Chatbot](AI_FITNESS_PROJECT/Screenshots/fitbot_ui.png.png) | ![BMI Calculator](AI_FITNESS_PROJECT/Screenshots/bmi_calculator.png)
  |
 
 > ℹ️ Place screenshots in a `screenshots/` folder inside your project directory.

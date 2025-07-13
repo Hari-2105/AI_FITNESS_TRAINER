@@ -14,6 +14,7 @@ An AI-powered full-body workout assistant that leverages **Computer Vision**, **
 
 ---
 
+
 ## 🧩 Key Features
 
 - 🎯 **Real-time posture detection** using MediaPipe
@@ -77,6 +78,7 @@ An AI-powered full-body workout assistant that leverages **Computer Vision**, **
 git clone https://github.com/Hari-2105/AI_FITNESS_TRAINER.git
 cd AI_FITNESS_TRAINER
 pip install -r requirements.txt
+```bash
 🏃‍♂️ Run the Flask App
 python app.py
 Open http://127.0.0.1:5000/ in your browser.

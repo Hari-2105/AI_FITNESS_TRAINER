@@ -82,8 +82,9 @@ pip install -r requirements.txt
 
 
 ### 🏃‍♂️ Run the Flask App
-
+```
 python app.py
+```
 Open http://127.0.0.1:5000/ in your browser.
 
 ### 🏋️ Supported Exercises
@@ -99,9 +100,10 @@ Open http://127.0.0.1:5000/ in your browser.
 - Leg Raises	Count-based	Hip and leg elevation angle check
 
 ### ✅ Example Commands
-
+```
 python main.py -t squat
 python main1.py -t push-up
+```
 
 ### 🔮 Future Scope
 

@@ -84,16 +84,16 @@ python app.py
 Open http://127.0.0.1:5000/ in your browser.
 
 ### 🏋️ Supported Exercises
-Exercise	Mode	Description
-Push-ups	Count-based	Detects elbow & shoulder angles
-Sit-ups	Count-based	Tracks torso movement
-Walk	Time-based	2-minute walking timer
-Burpees	Count-based	Full-body transition detection
-Jumping Jacks	Count-based	Arm and leg spread detection
-Squats	Count-based	Knee and hip angles monitored
-Lunges	Count-based	Alternating leg step validation
-Pull-ups	Count-based	Arm pull range
-Leg Raises	Count-based	Hip and leg elevation angle check
+-Exercise	Mode	Description
+-Push-ups	Count-based	Detects elbow & shoulder angles
+-Sit-ups	Count-based	Tracks torso movement
+-Walk	Time-based	2-minute walking timer
+-Burpees	Count-based	Full-body transition detection
+-Jumping Jacks	Count-based	Arm and leg spread detection
+-Squats	Count-based	Knee and hip angles monitored
+-Lunges	Count-based	Alternating leg step validation
+-Pull-ups	Count-based	Arm pull range
+-Leg Raises	Count-based	Hip and leg elevation angle check
 
 ### ✅ Example Commands
 python main.py -t squat
@@ -101,14 +101,14 @@ python main1.py -t push-up
 
 ### 🔮 Future Scope
 
-🔊 Voice assistant feedback
-📈 Dashboard for user progress
-👥 Multi-user support
-📱 Mobile app interface
+-🔊 Voice assistant feedback
+=📈 Dashboard for user progress
+-👥 Multi-user support
+-📱 Mobile app interface
 
 ### 🤝 Contributing
-Want to improve this project? Pull requests are welcome. Please fork this repository and open a PR after making necessary changes.
+-Want to improve this project? Pull requests are welcome. Please fork this repository and open a PR after making necessary changes.
 
 ### 🙋 Author
-Developed by Harish V
+-Developed by Harish V
 

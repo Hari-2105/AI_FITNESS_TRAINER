@@ -73,7 +73,7 @@ An AI-powered full-body workout assistant that leverages **Computer Vision**, **
 ## 🚀 Getting Started
 
 ### 🔧 Installation
-``` bash
+``` 
 git clone https://github.com/Hari-2105/AI_FITNESS_TRAINER.git
 cd AI_FITNESS_TRAINER
 pip install -r requirements.txt ```
@@ -81,7 +81,7 @@ pip install -r requirements.txt ```
 
 
 ### 🏃‍♂️ Run the Flask App
-``` bash
+
 python app.py
 Open http://127.0.0.1:5000/ in your browser.
 
@@ -98,7 +98,7 @@ Open http://127.0.0.1:5000/ in your browser.
 - Leg Raises	Count-based	Hip and leg elevation angle check
 
 ### ✅ Example Commands
-``` bash
+
 python main.py -t squat
 python main1.py -t push-up
 
